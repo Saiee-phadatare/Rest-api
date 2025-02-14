@@ -1,0 +1,56 @@
+Date    IP    Method    Path
+1739362966209: ::1 GET : /
+
+1739362999307: ::1 GET : /info/users
+
+1739363098298: ::1 POST : /info/users
+
+1739363134029: ::1 GET : /info/users
+
+1739363175459: ::1 PATCH : /info/users/67ac631d9f5c788334ff960e
+
+1739363203911: ::1 DELETE : /info/users/67ac931aee3a83aa5e867aab
+
+1739363210640: ::1 GET : /info/users
+
+1739363564064: ::1 GET : /
+
+1739363577742: ::1 GET : /
+
+1739363631377: ::1 GET : /info/users
+
+1739363634538: ::1 POST : /info/users
+
+1739363637361: ::1 PATCH : /info/users/67ac631d9f5c788334ff960e
+
+1739363640634: ::1 DELETE : /info/users/67ac931aee3a83aa5e867aab
+
+1739363785079: ::1 GET : /info/users
+
+1739363798902: ::1 DELETE : /info/users/67ac95329089d71b83ae6964
+
+1739363827739: ::1 GET : /info/users
+
+1739363827777: ::1 GET : /favicon.ico
+
+1739518330245: ::1 GET : /info/
+
+1739518357526: ::1 GET : /info/users/67ac62d3c46dfa3829465629
+
+1739518369162: ::1 GET : /info/users
+
+1739518386818: ::1 GET : /info/users/67ac623dd3cbb447d8a0a572
+
+1739518404431: ::1 PATCH : /info/users/67ac623dd3cbb447d8a0a572
+
+1739518428656: ::1 DELETE : /info/users/67ac623dd3cbb447d8a0a572
+
+1739518487470: ::1 POST : /info/users
+
+1739518495914: ::1 GET : /info/users
+
+1739518505048: ::1 PATCH : /info/users/67ac623dd3cbb447d8a0a572
+
+1739518520235: ::1 PATCH : /info/users/67aef2173a2ed708ab15f983
+
+1739518548355: ::1 GET : /info/users/67aef2173a2ed708ab15f983
